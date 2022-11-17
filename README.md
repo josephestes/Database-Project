@@ -1,5 +1,9 @@
 # Database-Project
 
+
+Provides  an  overview  of  database  and  database  management  system  concepts,  internal  design  models, normalization, network data models, development tools, and applications.
+
+
 1. Includes 5 entities (tables)
 2. Main entity includes at least 200 total records (rows)
 3. Three other entities have at least 25 or more records (rows)
@@ -16,6 +20,7 @@
 11. Includes at least 10 reports with appropriate names (these were saved in the file automatically after creation)
 12. All tables, fields, queries, reports, etc. are appropriately named
 
+
 Powerpoint covers:
 1. Purpose
 2. Relationships between the entities
@@ -28,3 +33,19 @@ Powerpoint covers:
 9. Weak entities
 10. User defined constraints
 11. Various challenges
+
+
+The goals of this project were to:
+
+1. Define a database and its uses.
+2. Describe the difference between traditional files and databases.
+3. Define a database management system (DBMS) and describe the services a DBMS provides to users.
+4. Identify and describe the main features of hierarchical, network, and relational database models.
+5. Demonstrate an understanding of the difference betweenlogical and physical design.
+6. Model a realistic business application using a technology-independent data model.
+7. Design and implement a database using the relational model, with emphasis on data integrity and security.
+8. Define and use the normalization process to further refine the relational table definitions.
+9. Demonstrate an understanding of the database administration function.
+10. Define and be able to use data definition language, data manipulation language, and instructions that apply relational algebra.
+11. Demonstrate an understanding of distributed database systems.
+12. Evaluate and select an appropriate DBMS for a given application.
