@@ -1,51 +1,46 @@
 # Database-Project
 
+This project provides an overview of database and database management system concepts, including internal design models, normalization, network data models, development tools, and applications.
 
-Provides  an  overview  of  database  and  database  management  system  concepts,  internal  design  models, normalization, network data models, development tools, and applications.
+The project includes:
 
+1. 5 entities (tables)
+2. Main entity with at least 200 total records (rows)
+3. Three other entities with at least 25 or more records (rows)
+4. Renamed primary key for each entity
+5. Use of various occurrences of derived, multivalued, composite, and optional attributes in all entities
+6. Data integrity measures
+7. Forms for each entity, with the largest entity (200 records) having an advanced form
+8. Valid and accurate relationships among tables
+9. 10 named queries
+10. 10 named reports
+11. Appropriately named tables, fields, queries, reports, etc.
 
-1. Includes 5 entities (tables)
-2. Main entity includes at least 200 total records (rows)
-3. Three other entities have at least 25 or more records (rows)
-4. Primary key is renamed per the entity name
-5. All entities use various occurrences of each of the following attributes:
-  Derived
-  Multivalued
-  Composite
-  Optional (O)
-6. Ensures data integrity.  Various sources define this as: “Data integrity refers to maintaining and assuring the accuracy and consistency of data over its entire life-cycle, and is a critical aspect to the design, implementation and usage of any system which stores, processes or retrieves data.”
-7. Each entity has a form within this DB. The largest entity (table with 200 records) has an advanced form
-9. Relationships are valid and accurate among the various tables
-10. Includes at least 10 queries for this DB with appropriate names (these will be saved in your file automatically after creation)
-11. Includes at least 10 reports with appropriate names (these were saved in the file automatically after creation)
-12. All tables, fields, queries, reports, etc. are appropriately named
+The accompanying PowerPoint presentation covers:
 
-
-Powerpoint covers:
-1. Purpose
-2. Relationships between the entities
+1. Purpose of the database
+2. Relationships between entities
 3. Steps taken to verify data integrity
 4. Data sources
-5. Operation
+5. Operations
 6. Analytics
-7. Entity Relationsip Diagram
-8. Database Schema
+7. Entity Relationship Diagram
+8. Database schema
 9. Weak entities
-10. User defined constraints
-11. Various challenges
+10. User-defined constraints
+11. Challenges faced
 
-
-The goals of this project were to:
+The goals of this project are to:
 
 1. Define a database and its uses.
-2. Describe the difference between traditional files and databases.
-3. Define a database management system (DBMS) and describe the services a DBMS provides to users.
-4. Identify and describe the main features of hierarchical, network, and relational database models.
-5. Demonstrate an understanding of the difference betweenlogical and physical design.
+2. Explain the difference between traditional files and databases.
+3. Define a database management system (DBMS) and describe its services.
+4. Describe the main features of hierarchical, network, and relational database models.
+5. Understand the difference between logical and physical design.
 6. Model a realistic business application using a technology-independent data model.
 7. Design and implement a database using the relational model, with emphasis on data integrity and security.
-8. Define and use the normalization process to further refine the relational table definitions.
-9. Demonstrate an understanding of the database administration function.
-10. Define and be able to use data definition language, data manipulation language, and instructions that apply relational algebra.
-11. Demonstrate an understanding of distributed database systems.
+8. Use the normalization process to refine the relational table definitions.
+9. Understand the role of a database administrator.
+10. Use data definition and manipulation language, as well as instructions that apply relational algebra.
+11. Understand distributed database systems.
 12. Evaluate and select an appropriate DBMS for a given application.
