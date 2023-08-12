@@ -29,10 +29,12 @@ The accompanying PowerPoint presentation covers:
 5. Operations
 6. Analytics
 7. Entity Relationship Diagram
-8. Database schema
-9. Weak entities
-10. User-defined constraints
-11. Challenges faced
+     ### ![ERD](files/CorrectedERD.png)
+9. Database schema
+     ### ![Schema](files/RelationalSchema.png)
+11. Weak entities
+12. User-defined constraints
+13. Challenges faced
 
 ## Goals
 
