@@ -18,7 +18,7 @@ The project includes:
 10. 10 named reports
 11. Appropriately named tables, fields, queries, reports, etc.
 
-# PowerPoint Presentation
+## PowerPoint Presentation
 
 The accompanying PowerPoint presentation covers:
 
